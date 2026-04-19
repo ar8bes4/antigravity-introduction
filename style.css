@@ -1,10 +1,10 @@
 :root {
-    --bg-color: #050505;
-    --text-color: #f5f5f7;
-    --accent-color: #0071e3;
-    --accent-gradient: linear-gradient(135deg, #0071e3 0%, #00d4ff 100%);
-    --glass-bg: rgba(255, 255, 255, 0.03);
-    --glass-border: rgba(255, 255, 255, 0.1);
+    --bg-color: #0a0808; /* わずかに温かみのある黒 */
+    --text-color: #fcfaf9;
+    --accent-color: #d49a89; /* ローズゴールド */
+    --accent-gradient: linear-gradient(135deg, #d49a89 0%, #e8c3b8 100%);
+    --glass-bg: rgba(255, 245, 240, 0.03);
+    --glass-border: rgba(212, 154, 137, 0.15);
     --font-main: 'Inter', sans-serif;
     --font-heading: 'Outfit', sans-serif;
 }
